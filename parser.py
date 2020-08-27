@@ -10,7 +10,7 @@ Author: Arjan de Haan (Vepnar)
 Date: 25 Aug 2020
 
 Content:
-	- parse_lines: Cleaning and converting variables.
+    - parse_lines: Cleaning and converting variables.
     - de_emojify: Cutout emojis from text messages.
 
 TODO: Add argument and return description
